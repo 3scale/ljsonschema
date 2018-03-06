@@ -1,8 +1,8 @@
 package = "ljsonschema"
-version = "scm-1"
+version = "scm-2"
 source = {
-   url = "git://github.com/jdesgats/ljsonschema.git",
-   branch = "master",
+   url = "git+https://github.com/3scale/ljsonschema.git",
+   branch = "3scale",
 }
 description = {
    summary = "JSON Schema data validator",
