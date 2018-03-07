@@ -1,5 +1,5 @@
 package = "ljsonschema"
-version = "scm-2"
+version = "0.1.0-1"
 source = {
    url = "git+https://github.com/3scale/ljsonschema.git",
    branch = "3scale",
